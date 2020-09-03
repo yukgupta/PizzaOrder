@@ -1,0 +1,8 @@
+{
+  "Customers-Data": [
+    {"Name":"Yukti", "Phone": "9811493861","Address":"GGN"},
+    {"Name":"Divya", "Phone":"9871358857","Address":"CHD"},
+    {"Name":"Vaibhav", "Phone":"9661358857","Address":"GGN"},
+    {"Name":"Tarushi", "Phone": "9511493161","Address":"GGN"}
+  ]
+}
